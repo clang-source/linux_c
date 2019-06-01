@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <pthread.h>
-#include "singleton.cpp"
+#include "singleton_cpp.h"
 
 
 class AssetManager{
